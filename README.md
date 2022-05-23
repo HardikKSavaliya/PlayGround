@@ -38,6 +38,10 @@ after that, run below command
 
 > truffle migrate --network dashboard
 
+*OR*
+
+> truffle migrate --reset --network dashboard
+
 ![image](https://user-images.githubusercontent.com/7431331/169679466-f37cf29f-6f56-4f46-ad0d-dc7a03e76980.png)
 ![image](https://user-images.githubusercontent.com/7431331/169679473-601dbdca-ebc1-4034-9bc6-9ee2ab2c6b24.png)
 
