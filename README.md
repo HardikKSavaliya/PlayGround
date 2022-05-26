@@ -1,4 +1,4 @@
-# Hello World PlayGround
+# Deploy contract using web3 to external wallet using infura
 
 **CHECK MORE BRANCH FOR ANY OTHER DEMO**
 
