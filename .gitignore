@@ -1,2 +1,4 @@
 node_modules
 .secret
+build/contracts/IncDecGet.json
+build/contracts/Migrations.json
