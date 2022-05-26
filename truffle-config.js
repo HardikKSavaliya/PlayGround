@@ -63,7 +63,7 @@ module.exports = {
     // Useful for deploying to a public network.
     // Note: It's important to wrap the provider as a function to ensure truffle uses a new provider every time.
     rinkeby: {
-      provider: () => new HDWalletProvider(mnemonic, `https://rinkeby.infura.io/v3/<Project ID>`),
+      provider: () => new HDWalletProvider(mnemonic, `https://rinkeby.infura.io/v3/9f01ed6a2d5048d0a55f693871e545d0`),
       network_id: 4,      
       gas: 5500000,       
       confirmations: 2,   

@@ -5,7 +5,7 @@ contract IncDecGet {
     uint256 number;
 
     constructor() {
-        number = 0;
+        number = 5;
     }
 
     function increment() public {
